@@ -9,12 +9,14 @@ Pick the additives you want to avoid, then see which products pass, fail or lack
 - Product ingredient checks against your personal avoid-list
 - Shelf-by-shelf comparisons: tallow, butter, eggs, milk, protein powder, fiber, snacks and more
 - Restaurant menu item checks
+- Video guides on the YouTube channel
 
 ## Browse
 
 - [Home](https://cleanfoodscore.com)
 - [Food category guides](https://cleanfoodscore.com/guides)
 - [Local](https://cleanfoodscore.com/local)
+- [YouTube channel](https://www.youtube.com/channel/UCYRMnf6I6a3vYXU6QeUd9uA)
 
 ## License
 
